@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "0d76b2a3-d3b6-4f0f-a800-4261167ad429",
+            "Value": {
+                "id": "59c14e57-c353-4702-b493-0f0d0f8ea0ed",
+                "resourcePath": "sprites\\spr_button\\spr_button.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "17675dd4-dd90-4d05-8e0b-e433be6a72ef",
             "Value": {
                 "id": "30d63557-f609-4749-953f-e8058d0160e0",
@@ -159,6 +167,22 @@
             }
         },
         {
+            "Key": "6c2f14bb-43a4-473a-b862-76cba0b0a1f8",
+            "Value": {
+                "id": "ed46e6e5-76e2-4efe-9402-9e1018bef726",
+                "resourcePath": "rooms\\room1\\room1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "6e12ab72-ef5d-4415-b892-d3d8f184a222",
+            "Value": {
+                "id": "a9e99361-d9e3-44db-b900-9965e5e44155",
+                "resourcePath": "objects\\obj_tester\\obj_tester.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6eb93dea-f8bc-47a6-9154-ee2e0b16c42c",
             "Value": {
                 "id": "f503415d-1390-4aff-b118-56d2e83ec29f",
@@ -172,6 +196,14 @@
                 "id": "3f86fcff-20ed-4df7-8f4d-a0c7c788e6f2",
                 "resourcePath": "views\\6f424082-7cb9-44a6-b353-2c6e8005df26.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "72fb9671-3a1a-462e-853d-7f6d7e8371b0",
+            "Value": {
+                "id": "55332e1b-97d3-4e26-9e89-8a9f1e7ec4f3",
+                "resourcePath": "fonts\\font2\\font2.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -235,6 +267,14 @@
             "Value": {
                 "id": "cdbba9a9-0d4b-48f5-aa8e-6c3f6bc9ed2d",
                 "resourcePath": "objects\\obj_ammoPickup\\obj_ammoPickup.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a321f33f-c3c0-4b61-941a-b4c7a28346b8",
+            "Value": {
+                "id": "3657633f-03f7-46ba-bed0-009fc37c9d8d",
+                "resourcePath": "objects\\obj_opticalButton\\obj_opticalButton.yy",
                 "resourceType": "GMObject"
             }
         },
