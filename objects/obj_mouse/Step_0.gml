@@ -17,5 +17,10 @@ if(keyboard_check(ord("D"))){
 }
 
 if(mouse_check_button_pressed(mb_left)){
+	image_index = 1;
 	instance_create_layer(x, y, "Instances", obj_bullet);
+}
+
+if(mouse_check_button_released(mb_left)){
+	image_index = 0;
 }
