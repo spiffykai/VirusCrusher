@@ -16,8 +16,9 @@ if(keyboard_check(ord("D"))){
 	x = x + 1;
 }
 
-if(mouse_check_button_pressed(mb_left)){
+if(mouse_check_button_pressed(mb_left) && ammo > 0){
 	image_index = 1;
+	ammo--;
 	instance_create_layer(x, y, "Instances", obj_bullet);
 }
 
