@@ -4,4 +4,4 @@ obj_game.playerScore += 5;
 with(other){
 	instance_destroy();
 }
-enemyHealth -= 50;
+enemyHealth -= random_range(30, 60);
