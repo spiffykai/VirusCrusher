@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "4879cb9f-ec4b-4527-a4c2-689db9239879",
+            "Value": {
+                "id": "55128412-cf15-48d5-ade3-8d0f30ab40a3",
+                "resourcePath": "sprites\\spr_coin\\spr_coin.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "48a2fe4c-f66c-493a-badd-29c4c0bf05a9",
             "Value": {
                 "id": "194a1204-9b9a-40eb-9278-b77184e26910",
@@ -275,6 +283,14 @@
             "Value": {
                 "id": "3657633f-03f7-46ba-bed0-009fc37c9d8d",
                 "resourcePath": "objects\\obj_opticalButton\\obj_opticalButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a8e104b0-8b99-44ac-9316-7d922086e511",
+            "Value": {
+                "id": "81cdce76-0b37-461b-9af2-c878469c665a",
+                "resourcePath": "objects\\obj_coin\\obj_coin.yy",
                 "resourceType": "GMObject"
             }
         },
