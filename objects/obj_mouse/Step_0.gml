@@ -18,6 +18,8 @@ if(keyboard_check(ord("D"))){
 
 if(mouse_check_button_pressed(mb_left) && ammo > 0){
 	image_index = 1;
+	audio_sound_pitch(snd_shoot, random_range(0.5, 1.5));
+	audio_play_sound(snd_shoot, 0, false);
 	ammo--;
 	instance_create_layer(x, y, "Instances", obj_bullet);
 }
