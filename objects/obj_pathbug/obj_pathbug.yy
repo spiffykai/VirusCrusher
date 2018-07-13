@@ -62,7 +62,34 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": [
-        
+        {
+            "id": "95c89e96-2015-4496-b755-fcee91a6e6f2",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "5",
+            "varName": "pointsToGive",
+            "varType": 1
+        },
+        {
+            "id": "b060b379-18ae-459d-8cc5-0d5a6e83a5f9",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "100",
+            "varName": "maxEnemyHealth",
+            "varType": 1
+        }
     ],
     "solid": false,
     "spriteId": "e5e07dc5-4c4b-4689-9e37-0f9fb5003112",
