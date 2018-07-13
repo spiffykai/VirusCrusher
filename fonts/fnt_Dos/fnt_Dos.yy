@@ -2,7 +2,7 @@
     "id": "72fb9671-3a1a-462e-853d-7f6d7e8371b0",
     "modelName": "GMFont",
     "mvc": "1.0",
-    "name": "font2",
+    "name": "fnt_dos",
     "AntiAlias": 1,
     "TTFName": "",
     "bold": false,

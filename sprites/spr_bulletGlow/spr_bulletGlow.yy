@@ -2,7 +2,7 @@
     "id": "8c16e861-219b-4530-8489-4e4bb134f527",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_glow",
+    "name": "spr_bulletGlow",
     "For3D": false,
     "HTile": false,
     "VTile": false,
