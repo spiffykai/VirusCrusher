@@ -77,7 +77,8 @@
             "listItems": [
                 "\"Default\"",
                 "\"Optical Mouse Sensor\"",
-                "\"Bullet Speed\""
+                "\"Bullet Speed\"",
+                "\"Higher Bullet Capacity\""
             ],
             "multiselect": false,
             "rangeEnabled": false,
