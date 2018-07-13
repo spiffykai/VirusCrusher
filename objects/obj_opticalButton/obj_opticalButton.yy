@@ -41,7 +41,68 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "d4e7f111-c55c-45d9-95c5-10c9643b540e",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "spr_player",
+            "varName": "spriteToShow",
+            "varType": 5
+        },
+        {
+            "id": "c0b1f2f3-f6ed-4fee-b6e6-571112f58640",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "Default",
+            "varName": "upgradeName",
+            "varType": 2
+        },
+        {
+            "id": "a768ab08-26af-47aa-81e8-5f19b1c232a1",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": [
+                "\"Default\"",
+                "\"Optical Mouse Sensor\"",
+                "\"Bullet Speed\""
+            ],
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "\"Default\"",
+            "varName": "upgradeType",
+            "varType": 6
+        },
+        {
+            "id": "1a0ee354-6758-4c19-9168-663d56dce374",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "upgradeCost",
+            "varType": 1
+        }
+    ],
     "solid": false,
     "spriteId": "0d76b2a3-d3b6-4f0f-a800-4261167ad429",
     "visible": true

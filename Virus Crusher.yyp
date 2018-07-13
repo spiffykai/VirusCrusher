@@ -194,16 +194,8 @@
             "Key": "6c2f14bb-43a4-473a-b862-76cba0b0a1f8",
             "Value": {
                 "id": "ed46e6e5-76e2-4efe-9402-9e1018bef726",
-                "resourcePath": "rooms\\room1\\room1.yy",
+                "resourcePath": "rooms\\upgradeRoom\\upgradeRoom.yy",
                 "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "6e12ab72-ef5d-4415-b892-d3d8f184a222",
-            "Value": {
-                "id": "a9e99361-d9e3-44db-b900-9965e5e44155",
-                "resourcePath": "objects\\obj_tester\\obj_tester.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -388,6 +380,14 @@
                 "id": "2e6e2013-fef6-4f7c-b3cd-5c74972dc76e",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cd6a5bf3-68a0-4a60-9227-230d3e21306b",
+            "Value": {
+                "id": "a34c4d63-40a2-4cba-8d40-036bfb47888f",
+                "resourcePath": "objects\\obj_upgradeScreen\\obj_upgradeScreen.yy",
+                "resourceType": "GMObject"
             }
         },
         {

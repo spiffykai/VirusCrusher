@@ -1,14 +1,15 @@
 
 {
-    "name": "room1",
+    "name": "upgradeRoom",
     "id": "6c2f14bb-43a4-473a-b862-76cba0b0a1f8",
     "creationCodeFile": "",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-        "69d53998-e539-41f9-9440-d62aff2c741b",
-        "72db5165-9dfe-4fae-a9e0-528240b2c95e"
+        "72db5165-9dfe-4fae-a9e0-528240b2c95e",
+        "48a733c4-9785-4def-8a16-4e4c796c3208",
+        "daf3cf11-fe69-479c-a1f3-45cadfb4364d"
     ],
     "IsDnD": false,
     "layers": [
@@ -52,8 +53,9 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_14CA5A96","id": "69d53998-e539-41f9-9440-d62aff2c741b","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_14CA5A96","objId": "6e12ab72-ef5d-4415-b892-d3d8f184a222","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 704,"y": 352},
-{"name": "inst_68E6D012","id": "72db5165-9dfe-4fae-a9e0-528240b2c95e","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_68E6D012","objId": "a321f33f-c3c0-4b61-941a-b4c7a28346b8","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 96,"y": 96}
+{"name": "inst_68E6D012","id": "72db5165-9dfe-4fae-a9e0-528240b2c95e","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_inst_68E6D012.gml","creationCodeType": ".gml","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_68E6D012","objId": "a321f33f-c3c0-4b61-941a-b4c7a28346b8","properties": [{"id": "6ffeb824-186a-4ad9-81fb-b71e16d5c8f9","modelName": "GMOverriddenProperty","objectId": "a321f33f-c3c0-4b61-941a-b4c7a28346b8","propertyId": "d4e7f111-c55c-45d9-95c5-10c9643b540e","mvc": "1.0","value": "spr_player"},{"id": "f519e611-91c4-495e-b15b-8dfc4eedd2fe","modelName": "GMOverriddenProperty","objectId": "a321f33f-c3c0-4b61-941a-b4c7a28346b8","propertyId": "c0b1f2f3-f6ed-4fee-b6e6-571112f58640","mvc": "1.0","value": "Optical Mouse Sensor"},{"id": "a9899e44-e188-492c-864e-2e22dd55dd5d","modelName": "GMOverriddenProperty","objectId": "a321f33f-c3c0-4b61-941a-b4c7a28346b8","propertyId": "1a0ee354-6758-4c19-9168-663d56dce374","mvc": "1.0","value": "5"},{"id": "a35d2470-70df-4875-b8d2-870a5de90d10","modelName": "GMOverriddenProperty","objectId": "a321f33f-c3c0-4b61-941a-b4c7a28346b8","propertyId": "a768ab08-26af-47aa-81e8-5f19b1c232a1","mvc": "1.0","value": "\"Optical Mouse Sensor\""}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 96,"y": 96},
+{"name": "inst_4D7B8537","id": "48a733c4-9785-4def-8a16-4e4c796c3208","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_4D7B8537","objId": "a321f33f-c3c0-4b61-941a-b4c7a28346b8","properties": [{"id": "6372a1f8-d121-410c-8421-6710ea288a36","modelName": "GMOverriddenProperty","objectId": "a321f33f-c3c0-4b61-941a-b4c7a28346b8","propertyId": "d4e7f111-c55c-45d9-95c5-10c9643b540e","mvc": "1.0","value": "spr_glow"},{"id": "1b6a861b-867e-4f24-9d9b-1b4964d1a3f9","modelName": "GMOverriddenProperty","objectId": "a321f33f-c3c0-4b61-941a-b4c7a28346b8","propertyId": "c0b1f2f3-f6ed-4fee-b6e6-571112f58640","mvc": "1.0","value": "Bullet Speed"},{"id": "586acc71-ab9e-4920-a100-bbd08615a4de","modelName": "GMOverriddenProperty","objectId": "a321f33f-c3c0-4b61-941a-b4c7a28346b8","propertyId": "a768ab08-26af-47aa-81e8-5f19b1c232a1","mvc": "1.0","value": "\"Bullet Speed\""},{"id": "2843b16e-aacc-40ea-b38b-d0b0e385062f","modelName": "GMOverriddenProperty","objectId": "a321f33f-c3c0-4b61-941a-b4c7a28346b8","propertyId": "1a0ee354-6758-4c19-9168-663d56dce374","mvc": "1.0","value": "5"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 96,"y": 384},
+{"name": "inst_58FB3311","id": "daf3cf11-fe69-479c-a1f3-45cadfb4364d","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_58FB3311","objId": "cd6a5bf3-68a0-4a60-9227-230d3e21306b","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 416,"y": 0}
             ],
             "layers": [
 
