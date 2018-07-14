@@ -78,7 +78,8 @@
                 "\"Default\"",
                 "\"Optical Mouse Sensor\"",
                 "\"Bullet Speed\"",
-                "\"Higher Bullet Capacity\""
+                "\"Higher Bullet Capacity\"",
+                "\"Higher Health\""
             ],
             "multiselect": false,
             "rangeEnabled": false,

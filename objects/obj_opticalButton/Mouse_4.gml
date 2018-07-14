@@ -13,4 +13,7 @@ if(upgradeType == "Default" && global.coins >= upgradeCost){
 	with(self){
 		upgradeCost += 2;
 	}
+} else if(upgradeType == "Higher Health" && global.coins >= upgradeCost){
+	global.maxPlayerHealth += 10;
+	global.coins -= upgradeCost;
 }
