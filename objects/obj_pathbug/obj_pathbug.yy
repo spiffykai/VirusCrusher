@@ -89,6 +89,34 @@
             "value": "100",
             "varName": "maxEnemyHealth",
             "varType": 1
+        },
+        {
+            "id": "8b78147d-2b62-4be2-9c77-bc8273368c2d",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "False",
+            "varName": "canShoot",
+            "varType": 3
+        },
+        {
+            "id": "0c496ab3-a61a-4944-a839-f793672ea148",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "80",
+            "varName": "shootRate",
+            "varType": 1
         }
     ],
     "solid": false,

@@ -6,6 +6,14 @@ if(collision_line(x, y, obj_mouse.x, obj_mouse.y, obj_wall, 1, 0)){
 	
 } else {
 	mp_potential_step(obj_mouse.x, obj_mouse.y, .5, false);
+	if(shootCooldown >= shootRate && canShoot == true){
+		instance_create_layer(x, y, "Instances", obj_enemyBullet);
+		shootCooldown = 0;
+	}
+	
+	if(canShoot == true){
+		shootCooldown++;
+	}
 }
 
 //destroy enemy when health is 0
