@@ -7,4 +7,4 @@ draw_sprite_ext(spr_bullet, 0, 50, 700, 15, 15, 90, c_white, 1);
 draw_text(100, 700, string(obj_mouse.ammo) + "/" + string(global.maxAmmo));
 draw_sprite_ext(spr_coin, 0, 300, 720, 7, 7, 0, c_white, 1);
 draw_text(350, 700, string(global.coins));
-draw_text(1250, 50, string(fps_real));
+draw_text(1250, 50, string(scrollNumber));
