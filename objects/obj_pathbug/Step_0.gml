@@ -19,5 +19,6 @@ if(collision_line(x, y, obj_mouse.x, obj_mouse.y, obj_wall, 1, 0)){
 
 //destroy enemy when health is 0
 if(enemyHealth <= 0){
+	ScreenShake(2, 30);
 	instance_destroy();
 }
