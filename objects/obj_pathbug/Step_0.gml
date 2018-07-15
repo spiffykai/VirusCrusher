@@ -5,7 +5,7 @@ image_angle = direction;
 if(collision_line(x, y, obj_mouse.x, obj_mouse.y, obj_wall, 1, 0)){
 	image_speed = 0;
 } else {
-	mp_potential_step(obj_mouse.x, obj_mouse.y, .5, false);
+	mp_potential_step(obj_mouse.x, obj_mouse.y, .5 * global.gameSpeed, false);
 	image_speed = 1;
 	if(shootCooldown >= shootRate && canShoot == true){
 		instance_create_layer(x, y, "Instances", obj_enemyBullet);
@@ -19,6 +19,7 @@ if(collision_line(x, y, obj_mouse.x, obj_mouse.y, obj_wall, 1, 0)){
 
 //destroy enemy when health is 0
 if(enemyHealth <= 0){
+	DialogueEvent("why the fuck did you just kill that enemy?");
 	ScreenShake(2, 30);
 	instance_destroy();
 }
