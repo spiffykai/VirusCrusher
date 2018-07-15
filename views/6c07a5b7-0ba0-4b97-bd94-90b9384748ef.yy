@@ -4,7 +4,8 @@
     "mvc": "1.1",
     "name": "6c07a5b7-0ba0-4b97-bd94-90b9384748ef",
     "children": [
-        "e5e07dc5-4c4b-4689-9e37-0f9fb5003112"
+        "e5e07dc5-4c4b-4689-9e37-0f9fb5003112",
+        "aa39271b-a190-4e36-ac0d-273be5a46d11"
     ],
     "filterType": "GMSprite",
     "folderName": "Enemies",

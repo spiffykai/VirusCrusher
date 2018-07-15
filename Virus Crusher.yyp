@@ -463,6 +463,14 @@
             }
         },
         {
+            "Key": "aa39271b-a190-4e36-ac0d-273be5a46d11",
+            "Value": {
+                "id": "08e3fadf-cc99-4efb-8c6f-af4557c102be",
+                "resourcePath": "sprites\\spr_bugAnimation\\spr_bugAnimation.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ab81c422-f97e-4928-b00b-1dd0f9928802",
             "Value": {
                 "id": "ebcaf5cb-2b3c-4489-907c-0cb0813eedae",
