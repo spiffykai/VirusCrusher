@@ -7,7 +7,7 @@ if(collision_line(x, y, obj_mouse.x, obj_mouse.y, obj_wall, 1, 0)){
 } else {
 	mp_potential_step(obj_mouse.x, obj_mouse.y, .5 * global.gameSpeed, false);
 	image_speed = 1;
-	if(shootCooldown >= shootRate && canShoot == true){
+	if(shootCooldown >= shootRate && canShoot == true && global.gameSpeed > 0){
 		instance_create_layer(x, y, "Instances", obj_enemyBullet);
 		shootCooldown = 0;
 	}
