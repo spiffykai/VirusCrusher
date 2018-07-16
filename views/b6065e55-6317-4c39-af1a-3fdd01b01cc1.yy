@@ -11,7 +11,8 @@
         "b0d7c44b-3bbe-4ca4-aeba-297a1f2259a0",
         "9644988f-22fe-4dd5-9e4f-331b1df65ec9",
         "b54508de-620b-43b8-b7ca-319efb69a930",
-        "46f5badb-cbd1-4e1c-bf76-67da099d81c1"
+        "46f5badb-cbd1-4e1c-bf76-67da099d81c1",
+        "08e957ae-83a4-4aac-b425-d36292709e3a"
     ],
     "filterType": "GMObject",
     "folderName": "Background Objects",
