@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "23a14018-0891-428a-8e5d-be32ffd60173",
+            "Value": {
+                "id": "d249065c-1d4d-49ef-ac7b-e6b7ff82f90b",
+                "resourcePath": "objects\\obj_levelButton\\obj_levelButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2a386573-84db-484e-a7fb-d636ae1f8ad0",
             "Value": {
                 "id": "4176681b-ed3f-4fee-88b9-cf21d33fb9ab",
@@ -164,6 +172,22 @@
                 "id": "2bf45249-86b9-435d-8329-6055b3cfefbc",
                 "resourcePath": "sprites\\spr_playerClick\\spr_playerClick.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "32166e68-e725-4be4-911a-2477ecb5984b",
+            "Value": {
+                "id": "8be174d1-c607-4c1b-a76d-3fb59924f169",
+                "resourcePath": "rooms\\room_LevelSelect\\room_LevelSelect.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "3a293dc9-63e9-406b-ad89-fb2be4ef0a0a",
+            "Value": {
+                "id": "1120725f-e627-44be-92aa-1c1d2eed2cc0",
+                "resourcePath": "objects\\obj_levelsButton\\obj_levelsButton.yy",
+                "resourceType": "GMObject"
             }
         },
         {
