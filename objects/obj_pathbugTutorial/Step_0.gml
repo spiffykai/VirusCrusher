@@ -21,5 +21,6 @@ if(collision_line(x, y, obj_mouse.x, obj_mouse.y, obj_wall, 1, 0)){
 if(enemyHealth <= 0){
 	DialogueEvent("What you just killed is one of the bugs! Kill all of them to go to the next level!");
 	ScreenShake(2, 30);
+	global.coins++;
 	instance_destroy();
 }
