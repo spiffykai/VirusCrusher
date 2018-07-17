@@ -6,7 +6,7 @@ audio_play_sound(snd_hurt, 0, false);
 ScreenShake(1, 15);
 
 //give points to player
-obj_game.playerScore += pointsToGive;
+global.playerScore += pointsToGive;
 
 //destroy bullet
 with(other){

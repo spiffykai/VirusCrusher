@@ -271,6 +271,14 @@
             }
         },
         {
+            "Key": "4917b361-c777-4253-b047-8eb04b59a660",
+            "Value": {
+                "id": "877b651c-cc8f-401f-b268-c3b903bba033",
+                "resourcePath": "rooms\\room_PauseMenu\\room_PauseMenu.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "49a3625e-5193-46bc-9aaf-32e32dc3aa69",
             "Value": {
                 "id": "04e380e3-4bd1-4e04-9420-8ae857a16333",
@@ -308,6 +316,14 @@
                 "id": "acdd7d9a-2f42-47c6-b410-d96aa350f0b0",
                 "resourcePath": "views\\57bcea24-c369-4141-a3b6-ff4e2ca82a7c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5a2507e7-0631-4ed9-abd5-00bb96200412",
+            "Value": {
+                "id": "6cef02bb-34cf-4da6-aea6-b074aa4cd425",
+                "resourcePath": "objects\\obj_backButton\\obj_backButton.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -396,6 +412,14 @@
                 "id": "b27b249b-5bf5-47a5-bf71-85c54c81e7dc",
                 "resourcePath": "views\\774ae578-4821-4b4e-9e2d-9c16f7e3bd45.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8332524b-2d0e-479e-8204-04ca867e7c7d",
+            "Value": {
+                "id": "6c370083-25b7-49a9-9d70-1545ddd0a105",
+                "resourcePath": "objects\\obj_menuButton\\obj_menuButton.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -644,6 +668,14 @@
                 "id": "a42195ac-1776-46d6-b85c-91f6e888f2ad",
                 "resourcePath": "sprites\\spr_tilesheet\\spr_tilesheet.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bf31108a-b63c-4034-a9d8-cb5d3f2cc6fb",
+            "Value": {
+                "id": "1b1ae043-8573-434b-89a0-9dfe3347581e",
+                "resourcePath": "objects\\obj_quitButton\\obj_quitButton.yy",
+                "resourceType": "GMObject"
             }
         },
         {

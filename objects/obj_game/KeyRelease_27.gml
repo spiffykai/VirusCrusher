@@ -1,2 +1,2 @@
-room_persistent = false;
-room_goto(room_MainMenu);
+//room_persistent = false;
+room_goto(room_PauseMenu);
