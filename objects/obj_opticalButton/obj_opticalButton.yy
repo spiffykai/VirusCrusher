@@ -23,6 +23,46 @@
             "enumb": 0,
             "eventtype": 8,
             "m_owner": "a321f33f-c3c0-4b61-941a-b4c7a28346b8"
+        },
+        {
+            "id": "a1449cdd-d651-4ed0-bbe0-b7411ed45f1f",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 10,
+            "eventtype": 6,
+            "m_owner": "a321f33f-c3c0-4b61-941a-b4c7a28346b8"
+        },
+        {
+            "id": "99c97723-550c-4d2d-a229-2b88e599fb35",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 11,
+            "eventtype": 6,
+            "m_owner": "a321f33f-c3c0-4b61-941a-b4c7a28346b8"
+        },
+        {
+            "id": "dd00122d-e75b-44ab-ab58-ef77df88a485",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "a321f33f-c3c0-4b61-941a-b4c7a28346b8"
+        },
+        {
+            "id": "7f87eb4d-74d1-4d58-a59d-e03e6cc60afa",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 64,
+            "eventtype": 8,
+            "m_owner": "a321f33f-c3c0-4b61-941a-b4c7a28346b8"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -103,6 +143,20 @@
             "value": "0",
             "varName": "upgradeCost",
             "varType": 1
+        },
+        {
+            "id": "2e80c6e9-c299-4071-8d78-6d4daab2015d",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "Default",
+            "varName": "upgradeDescription",
+            "varType": 2
         }
     ],
     "solid": false,
